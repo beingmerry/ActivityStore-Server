@@ -1,15 +1,16 @@
-# Ruby API with Sinatra - Phase 3 Project
+# ActivityStore-Server
 
-## Design
+This application provides the server infrastructure for persisting updates of the ActivityStore application.
+
+
+Front-end is hosted in a separate repo: 
+
+- [ActivityStore][]
+
+## Goals
 
 - Build a web basic API with Sinatra and Active Record to support a React
   frontend
-
-## Front-End
-
-⚠️ Note: The front-end is hosted in a separate repo: 
-
-- [ActivityStore][]
 
 ## Resources
 
