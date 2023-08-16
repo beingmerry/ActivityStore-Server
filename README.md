@@ -7,8 +7,8 @@
 
 ## Front-End
 
-⚠️ Note: The front-end is hosted in a separate repo located:
-[https://github.com/beingmerry/ActivityStore](Activity Store Repo)
+⚠️ Note: The front-end is hosted in a separate repo located: [https://github.com/beingmerry/ActivityStore](Activity Store Repo)
+
 ## Resources
 
 - [create-react-app][]
