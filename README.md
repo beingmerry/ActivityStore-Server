@@ -7,7 +7,7 @@
 
 ## Front-End
 
-⚠️ Note: The front-end is hosted in a separate repo located: [https://github.com/beingmerry/ActivityStore](Activity Store Repo)
+⚠️ Note: The front-end is hosted in a separate repo located: [front-end][Activity Store Repo]
 
 ## Resources
 
@@ -16,6 +16,7 @@
 - [Postman][postman download]
 - [Network Tab in the Dev Tools][network tab]
 
+[front end]: https://github.com/beingmerry/ActivityStore
 [create-react-app]: https://create-react-app.dev/docs/getting-started
 [dbdiagram.io]: https://dbdiagram.io/
 [postman download]: https://www.postman.com/downloads/
