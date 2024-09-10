@@ -9,7 +9,7 @@ Front-end is hosted in a separate repo:
 
 ## Goals
 
-- Build a web basic API with Sinatra and Active Record to support a React
+- Build a basic web API with Sinatra and Active Record to support a React
   frontend
 
 ## Resources
